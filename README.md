@@ -11,6 +11,14 @@ This project explores **Transformer-based deep learning techniques** for Natural
 
 The project is intended to provide practical experience with the Transformer ecosystem, dataset preparation, model inference or training, and result visualization.
 
+## 🎥 Project Walkthrough
+
+Explore the complete project walkthrough, including demonstrations and supporting files:
+
+👉 **[Watch the Project Walkthrough on Google Drive](https://drive.google.com/drive/folders/1OWHX85OiK9LUO_E22wljSlWAzJPX5c6B?usp=drive_link)**
+
+
+
 ## 🎯 Objectives
 
 - Understand the fundamentals of Transformer architectures.
